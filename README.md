@@ -55,14 +55,14 @@ Desenvolvedor em formação com foco em construção de aplicações completas, 
 ## 💡 Projetos
 
 
-## Git Stats📚 
+## Git Stats 📚
 
 <div align="center">
   <a href="https://github.com/WillDevGit" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillDevGit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WillDevGit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
   </a>
   <a href="https://github.com/WillDevGit" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillDevGit&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDevGit&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   </a>
 </div>
 
